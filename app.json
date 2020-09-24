@@ -1,12 +1,12 @@
 {
-    "name": "CCT",
-    "description": "index",
+    "name": "ChottaChetanTalkies",
+    "description": "Index Tv Channels enjoy ",
     "logo": "https://i.imgur.com/1xsOo9o.png",
     "keywords": [
-        "index",
-        "tv",
-        "m3u8",
-        "player"
+        "Index",
+        "Tv",
+        "Channels",
+        "enjoy"
     ],
     "repository": "https://github.com/d0n0t/chottachetantalkies",
     "website": "https://github.com/d0n0t/chottachetantalkies",
@@ -15,7 +15,7 @@
     },
     "addons": [],
     "buildpacks": [
-        {"url": "heroku/python"}
+        {"url": "heroku/heroku-php-apache2"}
     ],
     "formation": {
         "worker": {
