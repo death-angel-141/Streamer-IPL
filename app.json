@@ -1,14 +1,26 @@
 {
-    "name": "ChottaChetanTalkies",
-    "description": "Index",
-    "logo": "",
+    "name": "CCT",
+    "description": "index",
+    "logo": "https://i.imgur.com/1xsOo9o.png",
     "keywords": [
-        "",
-        "",
-        "",
-        ""
+        "index",
+        "tv",
+        "m3u8",
+        "player"
     ],
-    "repository": "https://github.com/midnightmadwalk/ChottaChetanTalkies",
-    "website": "https://github.com/midnightmadwalk/ChottaChetanTalkies",
-    "success_url": "https://github.com/midnightmadwalk/ChottaChetanTalkies",
+    "repository": "https://github.com/d0n0t/chottachetantalkies",
+    "website": "https://github.com/d0n0t/chottachetantalkies",
+    "success_url": "https://github.com/d0n0t/chottachetantalkies",
+    "env": [],
+    },
+    "addons": [],
+    "buildpacks": [
+        {"url": "heroku/python"}
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
     }
+}
