@@ -15,7 +15,7 @@
     },
     "addons": [],
     "buildpacks": [
-        {"url": "heroku/heroku-php-apache2"}
+        {"url": "heroku/php"}
     ],
     "formation": {
         "worker": {
