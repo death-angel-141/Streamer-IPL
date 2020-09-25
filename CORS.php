@@ -1,2 +1,1 @@
-
-<?php header("Access-Control-Allow-Origin: http://alpacinodumptv.herokuapp.com"); ?>
+<?php header("Access-Control-Allow-Origin: "https://alpacinodumptv.herokuapp.com"); ?>
