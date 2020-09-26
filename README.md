@@ -23,8 +23,9 @@ Index Your Favourite Tv Channels & Enjoy Live Tv Over Internet
 - do not touch index.php
 - do not touch CORS.php(it's just experiment)
 
-#You Can Contact Me On Telegram as @midnightmadwalk
 
-credits:
-Clapr devs.
-medium
+# You Can Contact Me On Telegram as @midnightmadwalk
+
+# credits:
+- Clapr devs.
+- medium
