@@ -7,7 +7,7 @@ Index Your Favourite Tv Channels & Enjoy Live Tv Over Internet
 - add custom img or gif
 - add m3u8 file in watch.html
 - you can add watch.html as you wanted just link them to buttons in home.html
-- change repo url to your repo url in heroku button and deploy.
+- change repo url to your repo url (in README.md) in heroku button and deploy.
 
 <br>
 <p align="center">
