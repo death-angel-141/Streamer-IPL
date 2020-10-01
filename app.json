@@ -1,16 +1,15 @@
 {
-   "name":"ChottaChetanTalkies",
+   "name":"Stream",
    "description":"Index Tv Channels enjoy ",
-   "logo":"https://i.imgur.com/bdgegfef.png",
+   
    "keywords":[
       "Index",
       "Tv",
       "Channels",
       "enjoy"
    ],
-   "repository":"https://github.com/midnightmadwalk/ChottaChetanTalkies",
-   "website":"https://github.com/midnightmadwalk/ChottaChetanTalkies",
-   "success_url":"https://github.com/midnightmadwalk/ChottaChetanTalkies",
+   "repository":"https://github.com/death-angel-141/Stream-M3U8.git",
+  
    "buildpacks":[
       {
          "url":"heroku/php"
