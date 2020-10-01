@@ -21,17 +21,9 @@ very long documantation on gitbook will be available soon + working on all index
 - code revisit
 - add live demo
 
-# WARNING !!
-
-- do not touch index.php
-- do not touch CORS.php(it's just experiment)
-<div align="center">
-<img src='https://i.imgur.com/o87rrcC.jpg' alt="Touch Kaise Kiya!"/>
-</div>
 
 
-# You Can Contact Me On Telegram as 
-- @midnightmadwalk
+
 
 # credits:
 - Clapr devs.
