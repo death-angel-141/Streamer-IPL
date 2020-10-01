@@ -12,7 +12,7 @@ very long documantation on gitbook will be available soon + working on all index
 
 <br>
 <p align="center">
-<a href = "https://heroku.com/deploy?template=https://github.com/midnightmadwalk/ChottaChetanTalkies/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="hmm" width="250px"></a></p>
+<a href = "https://heroku.com/deploy?template=https://github.com/death-angel-141/ChottaChetanTalkies.git"><img src="https://www.herokucdn.com/deploy/button.svg" alt="hmm" width="250px"></a></p>
 <br>
 
 # ToDo
